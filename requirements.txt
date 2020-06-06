@@ -1,0 +1,14 @@
+pyttsx3
+speech_recognition
+webbrowser
+pygame
+pygameMenu
+selenium
+pytz
+pyautogui
+subprocess
+wikipedia
+random
+glob
+faker
+subprocess

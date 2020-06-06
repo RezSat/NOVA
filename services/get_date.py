@@ -1,0 +1,1 @@
+WAKE = ['hey mark','hello mark','hey mark fourty two','hello mark 42','hello','hey']
