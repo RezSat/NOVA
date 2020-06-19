@@ -62,7 +62,7 @@ If You can Add more features please contibute to this Project
        YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
        
        Support Me Via Paypal : https://paypal.me/cyberrex599
-       Support Me Via Patreon : https://patreon.com/thelearningcrux
+       Support Me Via Patreon : https://patreon.com/yehanwasura
 ```
 
 Thank You
