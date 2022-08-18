@@ -1,5 +1,5 @@
 # NOVA
-NOVA is a Artificial Intelligence Virtual Assistant/Digital Assistant Developed with Python. Ability of Doing many special Tasks.
+NOVA is a Virtual Assistant/Digital Assistant Developed with Python. Ability of Doing many tasks.
 This can run both Online and Offline
 
 #For Online : SpeechRecognition by Google
