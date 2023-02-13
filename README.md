@@ -1,6 +1,6 @@
 # NOVA
 NOVA is a Virtual Assistant/Digital Assistant Developed with Python. Ability of Doing many tasks.
-This can run both Online and Offline
+This can run both Online and Offline..my first programming project.
 
 #For Online : SpeechRecognition by Google
 #For Offline : PocketSphinx Speech Recognizer
