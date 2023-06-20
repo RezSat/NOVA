@@ -52,4 +52,3 @@ COMMANDS                                                                        
 'add','subtract','divide','multiply','calculate','python cal'                                                       | Calculator
 
 ```
-Feel free to contribute.
